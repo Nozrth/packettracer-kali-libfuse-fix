@@ -1,4 +1,3 @@
-# packettracer-kali-libfuse-fix
 # Fix Cisco Packet Tracer 9.0 on Kali Linux (libfuse2 issue)
 
 ## Problem
